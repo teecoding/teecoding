@@ -17,3 +17,7 @@
 
 ## 𝗖𝘂𝗿𝗿𝗹𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
 - [AutoOffice](https://autooffice.cz/) - system for managing orders, inquiries, invoices, projects and tasks with an email client and the possibility of cooperation with other companies
+
+## Stats
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=teecoding&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
