@@ -1,10 +1,10 @@
 ## 𝗣𝗲𝗿𝘀𝗼𝗻𝗮𝗹 𝘀𝘁𝘂𝗳𝗳
 
 <p>
-  <a href="https://github.com/tee-coding">
+  <a href="https://twitter.com/TeeCoding" target="_blank">
     <img src="https://img.shields.io/badge/-@teecoding-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff">
   </a>
-  <a href="https://github.com/tee-coding">
+  <a href="#">
     <img src="https://img.shields.io/badge/-teecoding-grey?style=flat-square&logo=github&color=black">
   </a>
 </p>
